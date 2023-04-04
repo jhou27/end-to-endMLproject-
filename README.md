@@ -1,3 +1,4 @@
 ## End to End ML project
 
-This project inlcudes data ingestion, transformation, model training & evaluation, and hyperparameter tuning to predict human performance. 
+This project inlcudes data ingestion, transformation, model training & evaluation, hyperparameter tuning and deployment with Flask to predict human performance. 
+
